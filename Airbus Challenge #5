@@ -1,0 +1,40 @@
+Key insight, loading cargo into an airplane is a problem similar to loading the family car for a vacation.
+Also similar to a less complex problem of loading a container (on a truck), or a ship full of containers.
+We optimize total revenue for the carrier, with constraints for safety (weight, # passengers, % distance coverage of fuel > 100%)
+
+Passengers:  Family vacation has parents and kids in car.  They each need room for snacks, games, clothes and pillows, and personal space.
+They each have a weight and volume, and need extra room to cross legs, move a bit, sleep, lean, etc.  Constraint:  don't squeeze them too much, or they fight.
+
+Luggage.  For a 1-week beach trip, they each were allowed one carry-on to fit in the trunk/hatch back.
+
+Gasoline:  Filled it up every time, but was that smart?
+
+I could have brought a trailer or put stuff in a roof carrier, but did not.
+
+We did check the vehicle weight limit.  Most cars allows x,xxx pounds of extra weight, and we had to get an SUV for this trip.
+
+Cargo:
+I once packed a U-Haul truck for a daughter to move across country.  Standard boxes were easy.  I could fill every cubic inch of space with the right sized boxes.
+Those boxes were stable too...did not move during the long, bumpy ride.
+Each box had a weight limit, or it got too heavy and crushed things under it.  Every box had to stack.  
+Constraint:  Heavy items like furniture went on the bottom (but was limited to the first level of cargo, not very many of them).
+
+The problem was odd-shaped and odd-sized items, and fragile items.  We broke furniture during this trip, as it was not packed well.  Save time and money on packing, but lost it in breakage (constraint)
+
+We had odd-shaped and odd-sized items that we just propped here and there.  They moved during the drive, and we had to leave empty space for them.
+
+Fuel, in an airplane the fuel has 2 main attributes:  Weight vs. total capacity and distance to travel.  Optimization here too.
+
+Extra people and stuff needed for the ride:
+In an airplane, we have employees, snack carts, and safety equipment (e.g., the rafts).
+On our car trip, we have a spare tire, safety kit, food, water and blankets.  All take up room.  No extra people thank goodness (2 drivers).
+
+Are all legs of a flight the same?:
+In the case of our 2018 trip, we rented a very large SUV, and filled it to maximum capacity with people and stuff on the way out.
+By the way back, we had used up alot of stuff, so we have a bit extra room.  However, we bought keepsakes, and they offset the food we ate.
+For an aircraft, maybe each leg/flight is the same...but not summer vacations.
+
+
+So, we create an optimization problem just like the summer vacation car ride
+May 2, 2019:  Jeffrey Cohen
+
