@@ -23,6 +23,10 @@ The problem was odd-shaped and odd-sized items, and fragile items.  We broke fur
 
 We had odd-shaped and odd-sized items that we just propped here and there.  They moved during the drive, and we had to leave empty space for them.
 
+A trucking container (whether on a ship or not), has other attributes.  Total Weight, Total Height, and probably a balance aspect.
+Also has materials warnings (what is in the cargo) that determines how it is transported.  Flamable is an example.  Explosive, e.g., Lithiuim batteries, another.
+
+Fuel:
 Fuel, in an airplane the fuel has 2 main attributes:  Weight vs. total capacity and distance to travel.  Optimization here too.
 
 Extra people and stuff needed for the ride:
