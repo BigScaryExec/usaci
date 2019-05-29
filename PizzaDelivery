@@ -1,0 +1,4 @@
+Problem we were given, to solve for $10, is how to optimize pizza delivery for a large US chain.
+Factors include:
+goal of 30 minute delivery most of the time, and max of 45 minutes 100% of the time
+All results are probabilistic (e.g., making an order, which likely includes pizza, takes 18 minutes on average, with a wide distribution).
